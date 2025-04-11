@@ -1,12 +1,6 @@
 {
   "stations": [
-    {
-      "name": "Norbury",
-      "id": "910GNORBURY"
-    },
-    {
-      "name": "Streatham Common",
-      "id": "910GSTRETHM"
-    }
+    { "station": "Norbury",         "id": "910GNORBURY" },
+    { "station": "Streatham Common","id": "910GSTRETHM" }
   ]
 }
