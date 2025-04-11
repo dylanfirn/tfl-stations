@@ -1,0 +1,12 @@
+{
+  "stations": [
+    {
+      "name": "Norbury",
+      "id": "910GNORBURY"
+    },
+    {
+      "name": "Streatham Common",
+      "id": "910GSTRETHM"
+    }
+  ]
+}
